@@ -40,14 +40,17 @@ The Contact Management API allows users to register, log in, and perform CRUD op
    git clone https://github.com/your-username/contact-management-api.git
 
 2. Navigate to the project directory:
+   ```bash
    cd contact-management-api
 
 3. Install dependencies:
+   ```bash
    npm install
 
 4. Set up your environment variables (e.g., database connection, JWT secret) by creating a .env file based on the provided .env.example.
 
 5. Start the server:
+   ```bash
    npm run dev
 
 ## Usage
@@ -80,5 +83,5 @@ This project is licensed under the MIT License.
 
 # Contact
 
-Name : Brijesh Jaya Poojary
-Email : brijeshpujari333@gmail.com
+* Name : Brijesh Jaya Poojary.
+* Email : brijeshpujari333@gmail.com.
